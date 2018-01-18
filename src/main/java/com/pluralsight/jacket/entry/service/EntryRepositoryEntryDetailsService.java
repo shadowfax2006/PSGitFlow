@@ -63,5 +63,7 @@ public class EntryRepositoryEntryDetailsService implements JacketEntryService {
 	public void updateEntry(JacketEntry e) {
 		
 	}
+
+	
 }
 
