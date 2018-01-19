@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // Demo Git
+=======
+// Demo Release
+>>>>>>> release/sprint1-release
 package com.pluralsight.jacket.entry.service;
 
 import java.util.LinkedList;
