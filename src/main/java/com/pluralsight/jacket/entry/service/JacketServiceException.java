@@ -1,3 +1,4 @@
+// Demo Exception
 package com.pluralsight.jacket.entry.service;
 
 public class JacketServiceException extends RuntimeException {
