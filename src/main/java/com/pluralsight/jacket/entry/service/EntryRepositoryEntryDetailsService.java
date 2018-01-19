@@ -1,3 +1,4 @@
+// Demo Git
 package com.pluralsight.jacket.entry.service;
 
 import java.util.LinkedList;
@@ -63,5 +64,7 @@ public class EntryRepositoryEntryDetailsService implements JacketEntryService {
 	public void updateEntry(JacketEntry e) {
 		
 	}
+
+	
 }
 
